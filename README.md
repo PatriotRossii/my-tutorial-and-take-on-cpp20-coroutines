@@ -1,6 +1,6 @@
-# C++20's Corotuines for Beginners — Andreas Fertig — CppCon 2022
+# My tutorial and take on C++20 coroutines — David Mazières
 
-Code from Andreas Fertig's «C++ 20's Coroutines for Beginners» talk, CppCon 2022
+Code from [David Mazières' «My tutorial and take on C++20 coroutines» article](https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html)
 
 ## Build
 
